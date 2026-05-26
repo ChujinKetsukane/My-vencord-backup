@@ -1,0 +1,8 @@
+Vencord install // update :
+
+iwr "https://raw.githubusercontent.com/Vencord/Installer/main/install.ps1" -UseBasicParsing | iex
+
+
+
+
+Past it into the windows powershell
